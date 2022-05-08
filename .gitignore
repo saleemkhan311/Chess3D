@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -58,3 +58,38 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Chess3D/.vsconfig
+Chess3D/Assets/Chess Set.meta
+Chess3D/Assets/Chess Set/Chess Set.fbx
+Chess3D/Assets/Chess Set/Chess Set.fbx.meta
+Chess3D/Assets/Chess Set/Materials.meta
+Chess3D/Assets/Chess Set/Materials/Base Green.mat
+Chess3D/Assets/Chess Set/Materials/Base Green.mat.meta
+Chess3D/Assets/Chess Set/Materials/Black Pieces.mat
+Chess3D/Assets/Chess Set/Materials/Black Pieces.mat.meta
+Chess3D/Assets/Chess Set/Materials/Black Squares.mat
+Chess3D/Assets/Chess Set/Materials/Black Squares.mat.meta
+Chess3D/Assets/Chess Set/Materials/Chess Board.mat
+Chess3D/Assets/Chess Set/Materials/Chess Board.mat.meta
+Chess3D/Assets/Chess Set/Materials/White Line.mat
+Chess3D/Assets/Chess Set/Materials/White Line.mat.meta
+Chess3D/Assets/Chess Set/Materials/White Pieces.mat
+Chess3D/Assets/Chess Set/Materials/White Pieces.mat.meta
+Chess3D/Assets/Chess Set/Materials/White Squares.mat
+Chess3D/Assets/Chess Set/Materials/White Squares.mat.meta
+Chess3D/Assets/Chess Set/Scenes.meta
+Chess3D/Assets/Chess Set/Scenes/Chess Set.unity
+Chess3D/Assets/Chess Set/Scenes/Chess Set.unity.meta
+Chess3D/Assets/Chess Set/Scenes/Chess SEtSettings.lighting
+Chess3D/Assets/Chess Set/Scenes/Chess SEtSettings.lighting.meta
+Chess3D/Assets/Chess Set/Textures.meta
+Chess3D/Assets/Chess Set/Textures/Fabric024_2K_Color.png
+Chess3D/Assets/Chess Set/Textures/Fabric024_2K_Color.png.meta
+Chess3D/Assets/Chess Set/Textures/Wood010_2K_Color.png
+Chess3D/Assets/Chess Set/Textures/Wood010_2K_Color.png.meta
+Chess3D/Assets/Chess Set/Textures/Wood013_2K_Color.png
+Chess3D/Assets/Chess Set/Textures/Wood013_2K_Color.png.meta
+Chess3D/Assets/Chess Set/Textures/Wood021_2K_Color.png
+Chess3D/Assets/Chess Set/Textures/Wood021_2K_Color.png.meta
+Chess3D/Assets/Chess Set/Textures/Wood024_2K_Color.png
+Chess3D/Assets/Chess Set/Textures/Wood024_2K_Color.png.meta
